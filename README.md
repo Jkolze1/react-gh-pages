@@ -1,4 +1,4 @@
-# react-gh-pages
+# React Disney Princess Game
 
 Dinsey-Princess React memory game. 
 <br>
